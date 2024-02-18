@@ -19,6 +19,5 @@ public class PaymentDto {
   private String code;
   private Status status;
   private Long orderId;
-  private Long paymentId;
 
 }

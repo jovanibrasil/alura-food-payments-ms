@@ -56,7 +56,4 @@ public class Payment {
   @NotNull
   private Long orderId;
 
-  @NotNull
-  private Long paymentId;
-
 }
